@@ -1,0 +1,10 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/FirebaseAuthInterop.framework/Versions/A/FirebaseAuthInterop'
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ _FirebaseAuthInteropVersionNumber, _FirebaseAuthInteropVersionString ]
+    objc-classes:    [ PodsDummy_FirebaseAuthInterop ]
+...

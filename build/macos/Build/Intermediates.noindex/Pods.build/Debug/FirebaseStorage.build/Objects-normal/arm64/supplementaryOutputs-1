@@ -1,0 +1,15 @@
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"

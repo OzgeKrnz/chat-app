@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/core/src/util/testing_hooks.cc \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/core/src/util/testing_hooks.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/core/src/api/listener_registration.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/core/src/util/no_destructor.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/optional.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h

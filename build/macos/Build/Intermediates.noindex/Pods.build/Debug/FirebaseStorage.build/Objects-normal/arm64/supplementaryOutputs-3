@@ -1,0 +1,15 @@
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.dia"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.d"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.o"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftdeps"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.o"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.d"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.dia"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftdeps"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.swiftdeps"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.o"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.d"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.dia"

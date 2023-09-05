@@ -1,0 +1,15 @@
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift":
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.swiftdeps"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.o"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.d"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.dia"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift":
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.o"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.dia"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.d"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.swiftdeps"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift":
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.d"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.swiftdeps"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.dia"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.o"

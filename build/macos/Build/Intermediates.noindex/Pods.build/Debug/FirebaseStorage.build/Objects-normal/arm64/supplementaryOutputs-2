@@ -1,0 +1,15 @@
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift":
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageComponent.swiftdeps"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageComponent.d"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageComponent.o"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageComponent.dia"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift":
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.d"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.dia"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.swiftdeps"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.o"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift":
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.dia"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.o"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.swiftdeps"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.d"

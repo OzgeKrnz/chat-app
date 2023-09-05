@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b5625074e8e5a91dd606713b13c9a558e1923687cef33c91ecbc195567c0e5f3"
+build_start_time: [1693893092, 348446000]
+build_end_time: [1693893095, 481257000]
+inputs:
+  "/Users/ozgekurnaz/Desktop/chat_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1693893080, 539493679]
+  "/Users/ozgekurnaz/Desktop/chat_app/macos/Runner/AppDelegate.swift": [1692205996, 0]
+  "/Users/ozgekurnaz/Desktop/chat_app/macos/Runner/MainFlutterWindow.swift": [1692205996, 0]

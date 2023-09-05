@@ -1,0 +1,10 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/FirebaseCoreExtension.framework/Versions/A/FirebaseCoreExtension'
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ _FirebaseCoreExtensionVersionNumber, _FirebaseCoreExtensionVersionString ]
+    objc-classes:    [ PodsDummy_FirebaseCoreExtension ]
+...

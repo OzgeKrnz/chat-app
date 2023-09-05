@@ -1,0 +1,15 @@
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift":
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.swiftdeps"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.o"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.d"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageGetMetadataTask.dia"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift":
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.o"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.swiftdeps"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.d"
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListTask.dia"
+"/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift":
+  diagnostics: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.dia"
+  object: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.o"
+  dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.d"
+  swift-dependencies: "/Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageListResult.swiftdeps"

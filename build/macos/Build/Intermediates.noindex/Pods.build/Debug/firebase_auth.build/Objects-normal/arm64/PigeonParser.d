@@ -1,0 +1,85 @@
+dependencies: \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_auth.build/module.modulemap \
+  /Users/ozgekurnaz/.pub-cache/hosted/pub.dev/firebase_auth-4.8.0/macos/Classes/PigeonParser.m \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
+  /Users/ozgekurnaz/.pub-cache/hosted/pub.dev/firebase_auth-4.8.0/macos/Classes/Private/PigeonParser.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FirebaseAuth.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/Target\ Support\ Files/FirebaseAuth/FirebaseAuth-umbrella.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRActionCodeSettings.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAdditionalUserInfo.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthDataResult.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthSettings.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIREmailAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGameCenterAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGitHubAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGoogleAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactor.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorAssertion.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorSession.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorResolver.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTwitterAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUser.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserInfo.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserMetadata.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthCredential.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthProvider.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorAssertion.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorGenerator.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorInfo.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorAssertion.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorGenerator.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPSecret.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FirebaseFirestore.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/module.modulemap \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/Target\ Support\ Files/FirebaseFirestore/FirebaseFirestore-umbrella.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRAggregateQuery.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRAggregateSource.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRAggregateQuerySnapshot.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRCollectionReference.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRQuery.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestoreSource.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRListenerRegistration.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRDocumentChange.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRDocumentReference.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRDocumentSnapshot.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFieldPath.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFieldValue.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFilter.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestore.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestoreErrors.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRFirestoreSettings.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRGeoPoint.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRLoadBundleTask.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRLocalCacheSettings.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRQuerySnapshot.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRSnapshotMetadata.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRTimestamp.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRTransaction.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRTransactionOptions.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore/FIRWriteBatch.h \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/Target\ Support\ Files/FirebaseStorage/FirebaseStorage-umbrella.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/module.modulemap \
+  /Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseStorage/FirebaseStorage/Typedefs/FIRStorageTypedefs.h \
+  /Users/ozgekurnaz/Desktop/chat_app/build/macos/Build/Products/Debug/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-Swift.h \
+  /Users/ozgekurnaz/.pub-cache/hosted/pub.dev/firebase_auth-4.8.0/macos/Classes/Public/firebase_auth_messages.g.h

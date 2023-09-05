@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ebb0b00f106ecc8cc49fac84b95bf8e29b8fbad4a339ec8a554a8a8cb9bc6fa0"
+build_start_time: [1692960161, 393756000]
+build_end_time: [1692960177, 782816000]
+inputs:
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1692960136, 820698905]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1692960136, 821863098]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1692960136, 822393842]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1692960136, 822958501]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1692960136, 823177248]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1692960136, 823690992]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1692960136, 821014567]
+  "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1692960136, 820349701]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1692960136, 823989071]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1692960136, 823475203]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1692960136, 821529269]
+  ? "/Users/ozgekurnaz/Desktop/chat_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1692960136, 822074554]

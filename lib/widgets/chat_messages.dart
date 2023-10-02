@@ -57,17 +57,15 @@ class ChatMessages extends StatelessWidget {
           itemBuilder: (context, index) {
             //28.08
             final ChatMessage = loadedMessages[index].data();
-            // sonraki mesajın aynı kullanıcıya ait olup olmadıgnı görmek icin
+
             final nextChatMessage = index + 1 < loadedMessages.length
                 ? loadedMessages[index + 1].data()
-                : null; //eger küücükse bir sonraki mesajın var oldugunu
+                : null; 
 
-            //soonraki mesajı yüklemek istersek
             final currentMessageUserId = ChatMessage["userId"];
             final nextMessageUserId =
                 nextChatMessage != null ? nextChatMessage["userId"] : null;
 
-            // son mesajları atan kisiler aynı kisi mi?
             final nextUserIsSame = nextMessageUserId == currentMessageUserId;
 
             if (nextUserIsSame) {
@@ -75,7 +73,6 @@ class ChatMessages extends StatelessWidget {
                   message: ChatMessage["textMessage"],
                   isMe: authenticatedUser.uid == currentMessageUserId);
             }
-            // sonraki mesja atan aynı kisi degilse
             else {
               return MessageBubble.first(
                   username: ChatMessage["username"],

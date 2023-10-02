@@ -17,10 +17,12 @@ class AuthScreen extends StatefulWidget {
 }
 
 class _AuthScreenState extends State<AuthScreen> {
+
   final _formKey = GlobalKey<FormState>();
-  //we create a globalkey and pass it to a scaffold
+ 
 
   var _isLogin = true;
+
   var enteredEmail = "";
   var enteredPassword = "";
 
@@ -32,25 +34,20 @@ class _AuthScreenState extends State<AuthScreen> {
   void _submit() async {
     final isValid = _formKey.currentState!.validate();
 
-    if (!isValid || !_isLogin && _selectedImage == null) {
-      //show error messaeg
+    if (!isValid || !_isLogin ) {
       return;
     }
-
     _formKey.currentState!.save();
     try {
       setState(() {
         _isAuthenticating = true;
       });
       if (_isLogin) {
-        // log users in
+      
         final userCredentials = await _firebase.signInWithEmailAndPassword(
             email: enteredEmail, password: enteredPassword);
-        //print(userCredentials);
-        _firebase.signInWithEmailAndPassword(
-            email: enteredEmail, password: enteredPassword);
+        
       } else {
-        //user creating request
         final userCredentials = await _firebase.createUserWithEmailAndPassword(
             email: enteredEmail, password: enteredPassword);
 
@@ -77,7 +74,9 @@ class _AuthScreenState extends State<AuthScreen> {
       if (error.code == "Bu eposta adresi zaten kayıtlı.") {
         //...
       }
+      // ignore: use_build_context_synchronously
       ScaffoldMessenger.of(context).clearSnackBars();
+      // ignore: use_build_context_synchronously
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(error.message ?? "Authentication failed."),

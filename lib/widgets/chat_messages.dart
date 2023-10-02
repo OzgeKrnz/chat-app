@@ -80,6 +80,7 @@ class ChatMessages extends StatelessWidget {
                   message: ChatMessage["textMessage"],
                   isMe: authenticatedUser.uid == currentMessageUserId);
             }
+  
           },
         );
       },

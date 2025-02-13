@@ -1,0 +1,8 @@
+*.dart linguist-detectable=true
+*.c linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.m linguist-detectable=false
+*.mm linguist-detectable=false
+ios/* linguist-vendored
+android/* linguist-vendored

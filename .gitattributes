@@ -1,8 +1,9 @@
-*.dart linguist-detectable=true
-*.c linguist-detectable=false
-*.cpp linguist-detectable=false
-*.h linguist-detectable=false
-*.m linguist-detectable=false
-*.mm linguist-detectable=false
+Makefile linguist-vendored
+*.nasl linguist-vendored
+*.cmake linguist-vendored
+*.h linguist-vendored
+*.m linguist-vendored
+*.cpp linguist-vendored
+*.c linguist-vendored
 ios/* linguist-vendored
 android/* linguist-vendored

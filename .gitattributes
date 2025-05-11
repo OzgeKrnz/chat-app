@@ -1,10 +1,10 @@
-# iOS/Xcode ile ilgili dosyaları analiz dışında bırak
-*.pbxproj linguist-detectable=false
-*.xcodeproj linguist-detectable=false
+# Harici kütüphaneler (Pods) analiz dışında
+Pods/** linguist-vendored
 
-# Android build dosyaları vs. analiz edilmesin
-*.gradle linguist-detectable=false
-*.iml linguist-detectable=false
-
-# Dart dosyaları ana programlama dili olarak algılansın
-*.dart linguist-detectable=true
+# Dil analizine dahil edilmesin
+Makefile linguist-detectable=false
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.sh linguist-detectable=false
+*.nasl linguist-detectable=false
+*.rb linguist-detectable=false

@@ -1,32 +1,21 @@
-# Harici kütüphaneler (Pods) analiz dışında
+
 Pods/** linguist-vendored
 
-# Platforma özel dizinleri hariç tut
+build/macos/** linguist-vendored
+
 android/** linguist-vendored
 ios/** linguist-vendored
 linux/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
 
-# Derleme ve yapılandırma dosyalarını hariç tut
-*.gradle linguist-vendored
-*.kt linguist-vendored
-*.java linguist-vendored
-*.xml linguist-vendored
-*.plist linguist-vendored
-*.xc* linguist-vendored
-*.sh linguist-vendored
-*.bat linguist-vendored
-*.c linguist-vendored
-*.cpp linguist-vendored
-*.h linguist-vendored
-*.m linguist-vendored
-*.mm linguist-vendored
-*.swift linguist-vendored
-*.cmake linguist-vendored
-CMakeLists.txt linguist-vendored
-Makefile linguist-vendored
+*.c linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+*.mm linguist-detectable=false
+*.m linguist-detectable=false
 
-# Dart dosyalarını özellikle belirt
+**/Makefile linguist-detectable=false
+
 *.dart linguist-language=Dart
-
